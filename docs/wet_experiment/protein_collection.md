@@ -2,8 +2,7 @@
 title: Protein Collection
 layout: default
 parent: Wet-lab Experiments
-nav_order: 3
-child_nav_order: 2
+nav_order:  2
 ---
 
 ### Protein Collection
