@@ -6,7 +6,7 @@ nav_order: 1
 
 ### Hi there,
 
-I am Hoang-Anh Dao, a crystallographer-wanna-be currently working at [SKK, Japan] as a researcher working on structure-based drug discovery.
+I am Hoang-Anh Dao, a theorist/crystallographer-wanna-be currently working at [SKK, Japan] as a researcher working on structure-based drug discovery.
 
 This is an on-going doccument repository for archiving my knowledge and experience on Macromolecule Crystallography (especially those related to protein targets).
 The contents are mostly adapted from a brief review article by [Alexander Wlodawer](https://ccr.cancer.gov/staff-directory/alexander-wlodawer) and his colleagues on the [FEBS Journal, 275(1), 2008](https://febs.onlinelibrary.wiley.com/doi/epdf/10.1111/j.1742-4658.2007.06178.x). 
