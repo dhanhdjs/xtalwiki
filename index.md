@@ -11,7 +11,7 @@ This is an on-going doccument repository for archiving my knowledge and experien
 The contents are mostly adapted from a brief review article by [Alexander Wlodawer](https://ccr.cancer.gov/staff-directory/alexander-wlodawer) and his colleagues on the [FEBS Journal, 275(1), 2008](https://febs.onlinelibrary.wiley.com/doi/epdf/10.1111/j.1742-4658.2007.06178.x). 
 My journey in crystallography (often we call it Xtal) started with this paper (and a [Peter Müller](https://web.mit.edu/x-ray/pmueller/pmueller.html)'s review), so I hope that who are reading this could share parts of my nostalgic early career steps.
 
-Right now the document are only available in English, I plan to have it translated into Japanese some time soon. 
+Right now the document is only available in English, I plan to have it translated into Japanese some time soon. 
 I'm considering using a language switch button, but let me know if you have ideas for a better visuallization.
 
 
