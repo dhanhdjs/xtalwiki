@@ -27,6 +27,7 @@ I'm considering using a language switch button, but let me know if you have idea
 - Methods for building structure model (brief explanations).
 - Building models and structure refinement using either PHENIX or SHELX.
 - Glossary and Dictionary/Terminology for terms and abbreviations for fast searches.
+- PyMOL gallery and some tips for more informative/beautiful molecular visuallization.
 
 [SKK, Japan]: https://www.skk-net.com/
 
