@@ -9,7 +9,7 @@ I am Hoang-Anh Dao, a crystallographer-wanna-be currently working at [SKK, Japan
 
 This is an on-going doccument repository for archiving my knowledge and experience on Macromolecule Crystallography (especially those related to protein targets).
 The contents are mostly adapted from a brief review article by [Alexander Wlodawer](https://ccr.cancer.gov/staff-directory/alexander-wlodawer) and his colleagues on the [FEBS Journal, 275(1), 2008](https://febs.onlinelibrary.wiley.com/doi/epdf/10.1111/j.1742-4658.2007.06178.x). 
-My journey in crystallography (often we call it Xtal) started with this paper, so I hope that who are reading this could share parts of my nostalgic early career steps.
+My journey in crystallography (often we call it Xtal) started with this paper (and a [Peter Müller](https://web.mit.edu/x-ray/pmueller/pmueller.html)'s review), so I hope that who are reading this could share parts of my nostalgic early career steps.
 
 Right now the document are only available in English, I plan to have it translated into Japanese some time soon. 
 I'm considering using a language switch button, but let me know if you have ideas for a better visuallization.
@@ -32,6 +32,6 @@ I'm considering using a language switch button, but let me know if you have idea
 [SKK, Japan]: https://www.skk-net.com/
 
 ## Contact
-I am trying to figure out a more iteractive way for people to send their feedbacks and questions on-site.
+I am trying to figure out a more interactive way for people to send their feedbacks and questions on-site.
 
-It may take some time so at the moment please email me via h_dao at skk-net.com.
+It may take some times so at the moment please email me via h_dao at skk-net.com.
