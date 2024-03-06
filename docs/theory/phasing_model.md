@@ -1,9 +1,9 @@
 ---
-title: Phasing method and Initial Model
+title: Phasing methods and Initial models
 layout: default
 parent: Theory Summary
 nav_order: 2
 ---
 
-### Phasing and Inintial Model
+### Phasing methods and Inintial model
 Will be added soon ...
