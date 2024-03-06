@@ -1,7 +1,8 @@
 ---
-title: Glossary
+title: Glossary and Terminology
 layout: default
+nav_order: 7
 ---
 
-### Glossary
+### Glossary and Terminology
 Will be added soon ...
