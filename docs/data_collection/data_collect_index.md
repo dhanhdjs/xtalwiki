@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Data Collections
+title: Diffraction Experiment
 nav_order: 5
 has_children: true
 ---
 
-## Data Collections
+## Diffraction Experiment
 To be added soon ...
 
