@@ -1,7 +1,7 @@
 ---
 title: Data Processing
 layout: default
-parent: Data Collections
+parent: Diffraction Experiment
 nav_order:  2
 ---
 
