@@ -4,7 +4,9 @@ theme: just-the-docs
 
 url: https://dhanh-dejiso.github.io/xtalwiki
 
-
+aux_links:
+  IUCr: https://www.iucr.org/
+  PDB: https://www.rcsb.org/
 
 
 
