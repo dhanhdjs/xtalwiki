@@ -1,7 +1,7 @@
 ---
 title: Data Collection
 layout: default
-parent: Data Collections
+parent: Diffraction Experiment
 nav_order: 1
 ---
 
